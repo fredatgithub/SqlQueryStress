@@ -54,7 +54,3 @@ SET STATISTICS TIME ON;
 ## Contributing
 
 Any and all contributions are welcome! Please see the full [contributing guide](CONTRIBUTING.md) for more details.  
-
-## High DPI issue
-
-The font may look strange on high DPI screens, use [this tip](https://github.com/ErikEJ/SqlQueryStress/issues/143) to fix it.
